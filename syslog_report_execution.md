@@ -1,4 +1,4 @@
-# Automation Process Documentation
+# Syslog Report
 
 ## Working Directory
 ```
