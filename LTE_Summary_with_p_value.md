@@ -13,6 +13,14 @@ python3 generate_lte_summary_2.py -sd "2025-03-25" -ed "2025-03-31" -e "stage"
 ```
 
 ## Inputs
+- **Device List** (updated at `/home/ubuntu/Automation/scripts/gps_info/independent_scripts/devices`):
+ ```
+125472400030
+125472400032
+125472400022
+125472400012
+125072500030
+```
 - **start_date**: Start date of the report
 - **end_date**: End date of the report
 - **env**: Environment - either `'stage'` or `'prod'` (default is `'prod'`)
